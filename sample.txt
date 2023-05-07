@@ -1,0 +1,9 @@
+int a
+int b
+a = 2 * ( 11 / 2 )
+b = a / 3
+print b
+float c
+c = 6.5 / 2.0
+print c
+print 2
